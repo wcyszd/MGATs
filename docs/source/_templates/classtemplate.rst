@@ -1,0 +1,14 @@
+
+.. role:: hidden
+    :class: hidden-section
+
+.. currentmodule:: {{ module }}
+
+
+{{ name | underline}}
+
+.. autoclass:: {{ name }}
+    :show-inheritance:
+    :members:
+
+    .. automethod:: __init__
