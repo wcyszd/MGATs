@@ -1,5 +1,7 @@
-The required dataset for the experiment can be found in: https://github.com/wcyszd/MGATs/tree/main/datasets .
+**Please note that since there will be further optimization and improvement in this work, and this point is also a part of my graduation thesis, the complete and latest code will be released after some time, but not too long.**
 
-The partial codes used in the experimental code can be found in: https://github.com/wcyszd/MGATs/tree/main/gnn-benchmark-master .
+The datasets required for the experiments can be found at the following location: https://github.com/wcyszd/MGATs/tree/main/datasets.
 
-More comprehensive documentation and code will continue to be organized and uploaded in the future. Thank you for your attention
+Some of the code used in the experimental code can be found at the following location: https://github.com/wcyszd/MGATs/tree/main/gnn-benchmark-master.
+
+In the future, I will continue to organize and upload more comprehensive documentation and code. Thank you for your attention.
